@@ -30,7 +30,3 @@ Key Work Done:
 Output:
 Data analysis using python
 charts and visualization for insights
-
-
-Data analysis using python
-charts and visualization for insights
